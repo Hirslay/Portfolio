@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Change log:\r #1. Repository and readme add",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o html/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hirslay/Portfolio.git"
+  },
+  "author": "Norbert Korbuszewski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hirslay/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Hirslay/Portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
