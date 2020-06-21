@@ -1,2 +1,1 @@
-Change log:
-#1. Repository and readme add
+Some readme text
